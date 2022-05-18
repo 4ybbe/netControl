@@ -8,6 +8,7 @@ As seguintes linhas devem ser modificadas de acordo com seu diretorio:
 
 
 (As linhas "rede" serao armazenadas e atualizadas as conexões atuais da rede conectada)
+
 (As linhas "bh"/"bhsoft" irão ser as conexoes permitidas na rede, usadas tambem para comparação das redes conectadas)
 
 Dependencias
